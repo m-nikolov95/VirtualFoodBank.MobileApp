@@ -1,0 +1,12 @@
+{
+  "name": "VirtualFoodBank.MobileApp",
+  "displayName": "VirtualFoodBank.MobileApp",
+  "expo": {
+    "name": "VirtualFoodBank.MobileApp",
+    "slug": "VirtualFoodBank.MobileApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
